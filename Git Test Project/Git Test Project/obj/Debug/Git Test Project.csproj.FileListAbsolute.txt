@@ -1,0 +1,67 @@
+C:\Users\Varsha Agarwal\GitHub\Git-Test\Git Test Project\Git Test Project\bin\ApplicationInsights.config
+C:\Users\Varsha Agarwal\GitHub\Git-Test\Git Test Project\Git Test Project\bin\roslyn\csc.exe
+C:\Users\Varsha Agarwal\GitHub\Git-Test\Git Test Project\Git Test Project\bin\roslyn\csc.exe.config
+C:\Users\Varsha Agarwal\GitHub\Git-Test\Git Test Project\Git Test Project\bin\roslyn\csc.rsp
+C:\Users\Varsha Agarwal\GitHub\Git-Test\Git Test Project\Git Test Project\bin\roslyn\csi.exe
+C:\Users\Varsha Agarwal\GitHub\Git-Test\Git Test Project\Git Test Project\bin\roslyn\csi.rsp
+C:\Users\Varsha Agarwal\GitHub\Git-Test\Git Test Project\Git Test Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Varsha Agarwal\GitHub\Git-Test\Git Test Project\Git Test Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Varsha Agarwal\GitHub\Git-Test\Git Test Project\Git Test Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Varsha Agarwal\GitHub\Git-Test\Git Test Project\Git Test Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Varsha Agarwal\GitHub\Git-Test\Git Test Project\Git Test Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Varsha Agarwal\GitHub\Git-Test\Git Test Project\Git Test Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Varsha Agarwal\GitHub\Git-Test\Git Test Project\Git Test Project\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Varsha Agarwal\GitHub\Git-Test\Git Test Project\Git Test Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Varsha Agarwal\GitHub\Git-Test\Git Test Project\Git Test Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Varsha Agarwal\GitHub\Git-Test\Git Test Project\Git Test Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Varsha Agarwal\GitHub\Git-Test\Git Test Project\Git Test Project\bin\roslyn\System.AppContext.dll
+C:\Users\Varsha Agarwal\GitHub\Git-Test\Git Test Project\Git Test Project\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Varsha Agarwal\GitHub\Git-Test\Git Test Project\Git Test Project\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Varsha Agarwal\GitHub\Git-Test\Git Test Project\Git Test Project\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Varsha Agarwal\GitHub\Git-Test\Git Test Project\Git Test Project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Varsha Agarwal\GitHub\Git-Test\Git Test Project\Git Test Project\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Varsha Agarwal\GitHub\Git-Test\Git Test Project\Git Test Project\bin\roslyn\vbc.exe
+C:\Users\Varsha Agarwal\GitHub\Git-Test\Git Test Project\Git Test Project\bin\roslyn\vbc.exe.config
+C:\Users\Varsha Agarwal\GitHub\Git-Test\Git Test Project\Git Test Project\bin\roslyn\vbc.rsp
+C:\Users\Varsha Agarwal\GitHub\Git-Test\Git Test Project\Git Test Project\bin\roslyn\VBCSCompiler.exe
+C:\Users\Varsha Agarwal\GitHub\Git-Test\Git Test Project\Git Test Project\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Varsha Agarwal\GitHub\Git-Test\Git Test Project\Git Test Project\bin\Git Test Project.dll.config
+C:\Users\Varsha Agarwal\GitHub\Git-Test\Git Test Project\Git Test Project\bin\Git Test Project.dll
+C:\Users\Varsha Agarwal\GitHub\Git-Test\Git Test Project\Git Test Project\bin\Git Test Project.pdb
+C:\Users\Varsha Agarwal\GitHub\Git-Test\Git Test Project\Git Test Project\bin\Antlr3.Runtime.dll
+C:\Users\Varsha Agarwal\GitHub\Git-Test\Git Test Project\Git Test Project\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Varsha Agarwal\GitHub\Git-Test\Git Test Project\Git Test Project\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Varsha Agarwal\GitHub\Git-Test\Git Test Project\Git Test Project\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Varsha Agarwal\GitHub\Git-Test\Git Test Project\Git Test Project\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Varsha Agarwal\GitHub\Git-Test\Git Test Project\Git Test Project\bin\Microsoft.AI.Web.dll
+C:\Users\Varsha Agarwal\GitHub\Git-Test\Git Test Project\Git Test Project\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Varsha Agarwal\GitHub\Git-Test\Git Test Project\Git Test Project\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Varsha Agarwal\GitHub\Git-Test\Git Test Project\Git Test Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Varsha Agarwal\GitHub\Git-Test\Git Test Project\Git Test Project\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Varsha Agarwal\GitHub\Git-Test\Git Test Project\Git Test Project\bin\Newtonsoft.Json.dll
+C:\Users\Varsha Agarwal\GitHub\Git-Test\Git Test Project\Git Test Project\bin\System.Web.Helpers.dll
+C:\Users\Varsha Agarwal\GitHub\Git-Test\Git Test Project\Git Test Project\bin\System.Web.Mvc.dll
+C:\Users\Varsha Agarwal\GitHub\Git-Test\Git Test Project\Git Test Project\bin\System.Web.Optimization.dll
+C:\Users\Varsha Agarwal\GitHub\Git-Test\Git Test Project\Git Test Project\bin\System.Web.Razor.dll
+C:\Users\Varsha Agarwal\GitHub\Git-Test\Git Test Project\Git Test Project\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Varsha Agarwal\GitHub\Git-Test\Git Test Project\Git Test Project\bin\System.Web.WebPages.dll
+C:\Users\Varsha Agarwal\GitHub\Git-Test\Git Test Project\Git Test Project\bin\System.Web.WebPages.Razor.dll
+C:\Users\Varsha Agarwal\GitHub\Git-Test\Git Test Project\Git Test Project\bin\WebGrease.dll
+C:\Users\Varsha Agarwal\GitHub\Git-Test\Git Test Project\Git Test Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Varsha Agarwal\GitHub\Git-Test\Git Test Project\Git Test Project\bin\System.Web.Helpers.xml
+C:\Users\Varsha Agarwal\GitHub\Git-Test\Git Test Project\Git Test Project\bin\System.Web.Mvc.xml
+C:\Users\Varsha Agarwal\GitHub\Git-Test\Git Test Project\Git Test Project\bin\System.Web.Optimization.xml
+C:\Users\Varsha Agarwal\GitHub\Git-Test\Git Test Project\Git Test Project\bin\System.Web.Razor.xml
+C:\Users\Varsha Agarwal\GitHub\Git-Test\Git Test Project\Git Test Project\bin\System.Web.WebPages.xml
+C:\Users\Varsha Agarwal\GitHub\Git-Test\Git Test Project\Git Test Project\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Varsha Agarwal\GitHub\Git-Test\Git Test Project\Git Test Project\bin\System.Web.WebPages.Razor.xml
+C:\Users\Varsha Agarwal\GitHub\Git-Test\Git Test Project\Git Test Project\bin\Antlr3.Runtime.pdb
+C:\Users\Varsha Agarwal\GitHub\Git-Test\Git Test Project\Git Test Project\bin\Newtonsoft.Json.xml
+C:\Users\Varsha Agarwal\GitHub\Git-Test\Git Test Project\Git Test Project\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Varsha Agarwal\GitHub\Git-Test\Git Test Project\Git Test Project\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Varsha Agarwal\GitHub\Git-Test\Git Test Project\Git Test Project\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Varsha Agarwal\GitHub\Git-Test\Git Test Project\Git Test Project\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Varsha Agarwal\GitHub\Git-Test\Git Test Project\Git Test Project\bin\Microsoft.AI.Web.xml
+C:\Users\Varsha Agarwal\GitHub\Git-Test\Git Test Project\Git Test Project\obj\Debug\Git Test Project.csprojResolveAssemblyReference.cache
+C:\Users\Varsha Agarwal\GitHub\Git-Test\Git Test Project\Git Test Project\obj\Debug\Git Test Project.dll
+C:\Users\Varsha Agarwal\GitHub\Git-Test\Git Test Project\Git Test Project\obj\Debug\Git Test Project.pdb
